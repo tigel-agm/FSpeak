@@ -14,7 +14,7 @@ https://hmvlagent.com/fspeak.html
 - **Command Validation**: Built-in FFmpeg command validation and optimization
 - **Real-time Health Monitoring**: Check AI models and FFmpeg availability
 
-## 🚀 Quick Start
+## 🚀 Quick Start (note: will be uploading the files soonTM)
 
 ### Prerequisites
 
