@@ -2,6 +2,8 @@
 
 A lightweight, fast, and accurate natural language interface for FFmpeg that converts plain English descriptions into optimized FFmpeg commands using AI.
 
+https://hmvlagent.com/fspeak.html
+
 ## ✨ Features
 
 - **Natural Language Processing**: Describe what you want in plain English
