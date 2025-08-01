@@ -1,0 +1,21 @@
+# Core framework dependencies
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+gradio==5.38.2
+pydantic==2.11.7
+
+# AI model integrations
+openai==1.58.1
+requests==2.32.3
+httpx==0.28.1
+
+# Additional utilities
+python-multipart==0.0.20
+python-dotenv==1.0.1
+typing-extensions==4.12.2
+
+# Optional: For Ollama integration
+ ollama==0.4.4
+
+# Optional: For Google Gemini integration  
+ google-generativeai==0.8.3
